@@ -1,6 +1,10 @@
 {
-  "name": "Vollkorn",
+  "name": "vollkorn",
   "version": "3.0.0.5",
+  "description": "Vollkorn: the free and healthy typeface for bread and butter use. Designed by Friedrich Althausen and ready to drop in your site.",
+  "homepage": "http://vollkorn-typeface.com/",
+  "license": "OFL-1.1",
   "main": "vollkorn.css",
-  "ignore": ["README.md", "OFL-FAQ.txt"]
+  "ignore": ["README.md", "OFL-FAQ.txt"],
+  "keywords": ["vollkorn", "font", "webfont", "opentype"]
 }

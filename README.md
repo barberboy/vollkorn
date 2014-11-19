@@ -69,12 +69,21 @@ If you’d like bower to put it in a different directory, just create a
 }
 ```
 
+### CDN
+
+Quickly test Vollkorn on your site by using the CDN hosted by [RawGit]. Feel
+free to use it in production as well:
+
+```html
+<link rel="stylesheet" href="https://cdn.rawgit.com/barberboy/Vollkorn/3.0.0.5/vollkorn.css">
+```
+
 ### Google Fonts
 
 Not for you? Just use Google Fonts instead:
 
 ```html
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Vollkorn">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Vollkorn:400italic,700italic,400,700">
 ```
 
 
@@ -116,7 +125,7 @@ h1 {
 }
 ```
 
-
-[Vollkorn]: http://vollkorn-typeface.com
+[RawGit]: https://rawgit.com/
+[Vollkorn]: http://vollkorn-typeface.com/
 [Donate]: http://vollkorn-typeface.com/#donate
 [OpenType Features]: http://www.microsoft.com/typography/otspec/featurelist.htm
