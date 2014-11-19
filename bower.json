@@ -1,0 +1,6 @@
+{
+  "name": "Vollkorn",
+  "version": "3.0.0.5",
+  "main": "vollkorn.css",
+  "ignore": ["README.md", "OFL-FAQ.txt"]
+}

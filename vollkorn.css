@@ -1,0 +1,87 @@
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('eot/vollkorn-regular-webfont.eot');
+    src: local('Vollkorn Regular'),
+         url('eot/vollkorn-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('woff/vollkorn-regular-webfont.woff') format('woff'),
+         url('ttf/Vollkorn-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('eot/vollkorn-italic-webfont.eot');
+    src: local('Vollkorn Italic'),
+         url('eot/vollkorn-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('woff/vollkorn-italic-webfont.woff') format('woff'),
+         url('ttf/Vollkorn-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('eot/vollkorn-medium-webfont.eot');
+    src: local('Vollkorn Medium'),
+         url('eot/vollkorn-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('woff/vollkorn-medium-webfont.woff') format('woff'),
+         url('ttf/Vollkorn-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('eot/vollkorn-mediumitalic-webfont.eot');
+    src: local('Vollkorn Medium Italic'),
+         url('eot/vollkorn-mediumitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('woff/vollkorn-mediumitalic-webfont.woff') format('woff'),
+         url('ttf/Vollkorn-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('eot/vollkorn-semibold-webfont.eot');
+    src: local('Vollkorn Semibold'),
+         url('eot/vollkorn-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('woff/vollkorn-semibold-webfont.woff') format('woff'),
+         url('ttf/Vollkorn-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('eot/vollkorn-semibolditalic-webfont.eot');
+    src: local('Vollkorn Semibold Italic'),
+         url('eot/vollkorn-semibolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('woff/vollkorn-semibolditalic-webfont.woff') format('woff'),
+         url('ttf/Vollkorn-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('eot/vollkorn-bold-webfont.eot');
+    src: local('Vollkorn Bold'),
+         url('eot/vollkorn-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('woff/vollkorn-bold-webfont.woff') format('woff'),
+         url('ttf/Vollkorn-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('eot/vollkorn-bolditalic-webfont.eot');
+    src: local('Vollkorn Bold Italic'),
+         url('eot/vollkorn-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('woff/vollkorn-bolditalic-webfont.woff') format('woff'),
+         url('ttf/Vollkorn-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
