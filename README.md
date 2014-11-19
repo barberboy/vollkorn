@@ -12,7 +12,7 @@ and other OpenType features.
 
 Vollkorn is available for personal or commercial use under the SIL Open Font
 License. “[Pay what you want][donate]” to say thanks and support its continued
-development!
+development.
 
 
 Usage
@@ -74,7 +74,7 @@ If you’d like bower to put it in a different directory, just create a
 Not for you? Just use Google Fonts instead:
 
 ```html
-<link' rel='stylesheet' href='//fonts.googleapis.com/css?family=Vollkorn>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Vollkorn">
 ```
 
 
