@@ -23,39 +23,39 @@ You have several options for using this project:
 
 ```sh
 cd styles/fonts
-git clone https://github.com/barberboy/Vollkorn
+git clone https://github.com/barberboy/vollkorn
 ```
 
 ```html
-<link rel="stylesheet" href="/styles/fonts/Vollkorn/vollkorn.css">
+<link rel="stylesheet" href="/styles/fonts/vollkorn/vollkorn.css">
 ```
 
 
 ### Download
 
-Download and unpack the [.zip archive](https://github.com/barberboy/Vollkorn/archive/master.zip):
+Download and unpack the [.zip archive](https://github.com/barberboy/vollkorn/archive/master.zip):
 
 ```sh
 cd styles/fonts
-wget https://github.com/barberboy/Vollkorn/archive/master.zip
+wget https://github.com/barberboy/vollkorn/archive/master.zip
 unzip master.zip
-mv Vollkorn-master Vollkorn
+mv vollkorn-master vollkorn
 rm master.zip
 ```
 
 ```html
-<link rel="stylesheet" href="/styles/fonts/Vollkorn/vollkorn.css">
+<link rel="stylesheet" href="/styles/fonts/vollkorn/vollkorn.css">
 ```
 
 
 ### Bower
 
 ```sh
-bower install barberboy/Vollkorn
+bower install barberboy/vollkorn
 ```
 
 ```html
-<link rel="stylesheet" href="/bower_components/Vollkorn/vollkorn.css">
+<link rel="stylesheet" href="/bower_components/vollkorn/vollkorn.css">
 ```
 
 If you’d like bower to put it in a different directory, just create a
@@ -75,7 +75,13 @@ Quickly test Vollkorn on your site by using the CDN hosted by [RawGit]. Feel
 free to use it in production as well:
 
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/barberboy/Vollkorn/3.0.0.5/vollkorn.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/barberboy/vollkorn/3.0.0.5/vollkorn.css">
+```
+
+or
+
+```css
+@import url(https://cdn.rawgit.com/barberboy/vollkorn/3.0.0.5/vollkorn.css);
 ```
 
 ### Google Fonts
